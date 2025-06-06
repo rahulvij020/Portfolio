@@ -21,10 +21,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - 📨 Contact form or links to email/socials
 - ✅ Responsive design (mobile-friendly)
 
-# 📸 Screenshots
-
-
-
 # 🚀 Getting Started
 
 To run the project locally:
